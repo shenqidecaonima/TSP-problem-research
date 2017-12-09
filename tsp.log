@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.12)  9 DEC 2017 02:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.12)  9 DEC 2017 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,63 +844,63 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <3.png, id=31, 223.83624pt x 874.26625pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
-Package pdftex.def Info: 3.png used on input line 140.
+Package pdftex.def Info: 3.png used on input line 141.
 (pdftex.def)             Requested size: 135.89174pt x 530.78033pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4168) has occurred while \output is active []
 
  [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./3.png>] [9]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 162.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 165.
 
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 162.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 165.
 
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 162
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 165
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 162
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 165
 .
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 162.
+(Font)              <12> on input line 165.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 162.
+(Font)              <8> on input line 165.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 162.
+(Font)              <6> on input line 165.
  [10]
 <4.png, id=49, 1861.95625pt x 954.56625pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
-Package pdftex.def Info: 4.png used on input line 167.
+Package pdftex.def Info: 4.png used on input line 173.
 (pdftex.def)             Requested size: 452.9679pt x 232.21759pt.
 
-Overfull \hbox (28.90755pt too wide) in paragraph at lines 167--168
+Overfull \hbox (28.90755pt too wide) in paragraph at lines 173--174
 [][]  
  []
 
 <5.png, id=50, 1861.95625pt x 954.56625pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
-Package pdftex.def Info: 5.png used on input line 169.
+Package pdftex.def Info: 5.png used on input line 175.
 (pdftex.def)             Requested size: 452.9679pt x 232.21759pt.
 
-Overfull \hbox (28.90755pt too wide) in paragraph at lines 169--171
-[][] 
+Overfull \hbox (28.90755pt too wide) in paragraph at lines 175--176
+[][]  
  []
 
 [11 <./4.png> <./5.png>]
@@ -943,70 +943,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
-AED endfloat: Processing end Figures and Tables [40] (./tsp.aux) ) 
+AED endfloat: Processing end Figures and Tables [25] (./tsp.aux) ) 
 Here is how much of TeX's memory you used:
- 19381 strings out of 493029
- 344852 string characters out of 6136233
- 431237 words of memory out of 5000000
- 22523 multiletter control sequences out of 15000+600000
+ 19372 strings out of 493029
+ 344751 string characters out of 6136233
+ 439238 words of memory out of 5000000
+ 22514 multiletter control sequences out of 15000+600000
  35835 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,97p,1412b,1770s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,97p,1412b,1744s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/t
 exmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-r
 m.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on tsp.pdf (40 pages, 586149 bytes).
+Output written on tsp.pdf (25 pages, 580708 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
+ 121 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
